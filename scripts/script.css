@@ -1,6 +1,7 @@
 // Automatic Slideshow - change image every 3 seconds
-var myIndex = 0;
-carousel();
+{ 
+	var myIndex = 0;
+	carousel();
 
 function carousel() {
   var i;
